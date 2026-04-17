@@ -1,0 +1,5 @@
+compress 37
+normalize
+resize 684
+resize 480
+modulate 541
